@@ -73,7 +73,7 @@ while (counter > 0) {
     print("T-minus " + counter);
     counter = counter - 1;
 }
-print("Blast off! 🚀");
+print("Blast off!");
 
 // Fibonacci sequence
 let a = 0;
@@ -144,7 +144,7 @@ New-Item my_program.ferris
 2. **Write your program:**
 ```ferris
 // my_program.ferris
-print("Hello from my first Ferris program! 🦀");
+print("Hello from my first Ferris program!");
 
 let name = "Developer";
 let message = "Welcome to Ferris, " + name + "!";
@@ -156,7 +156,7 @@ while (numbers < 3) {
     numbers = numbers + 1;
 }
 
-print("Done! Happy coding! ✨");
+print("Done! Happy coding!");
 ```
 
 3. **Run your program:**
@@ -166,12 +166,12 @@ cargo run my_program.ferris
 
 4. **Expected output:**
 ```
-Hello from my first Ferris program! 🦀
+Hello from my first Ferris program! 
 Welcome to Ferris, Developer!
 Counting: 0
 Counting: 1
 Counting: 2
-Done! Happy coding! ✨
+Done! Happy coding! 
 🦀 Ferris program executed successfully! 🦀
 ```
 

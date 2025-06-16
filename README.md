@@ -138,7 +138,7 @@ cargo run --release examples/factorial.ferris
 
 1. **Create a new `.ferris` file:**
 ```bash
-touch my_program.ferris
+New-Item my_program.ferris
 ```
 
 2. **Write your program:**

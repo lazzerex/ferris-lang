@@ -1,4 +1,3 @@
-// src/lexer.rs
 use crate::token::{Token, TokenType};
 
 pub struct Lexer {

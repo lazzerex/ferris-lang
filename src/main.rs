@@ -1,4 +1,3 @@
-// src/main.rs
 mod lexer;
 mod parser;
 mod interpreter;

@@ -1,4 +1,3 @@
-// src/interpreter.rs
 use std::collections::HashMap;
 use crate::ast::{Expr, Stmt, BinaryOp, UnaryOp};
 use crate::value::Value;

@@ -1,4 +1,3 @@
-// src/parser.rs
 use crate::token::{Token, TokenType};
 use crate::ast::{Expr, Stmt, BinaryOp, UnaryOp};
 

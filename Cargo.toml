@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "The Ferris programming language - a simple language written in Rust"
 license = "MIT"
-repository = "https://github.com/yourusername/ferris-lang"
+repository = "https://github.com/lazzerex/ferris-lang"
 keywords = ["compiler", "interpreter", "language", "parser", "ferris"]
 categories = ["compilers"]
 

@@ -1,0 +1,15 @@
+// Various loop examples
+let counter = 0;
+
+// Count up
+while (counter < 5) {
+    print(counter);
+    counter = counter + 1;
+}
+
+// Count down
+counter = 5;
+while (counter > 0) {
+    print(counter);
+    counter = counter - 1;
+}

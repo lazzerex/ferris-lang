@@ -1,0 +1,2 @@
+print("Hello World!");
+print("Welcome to Ferris! A Programming Language written with Rust.");

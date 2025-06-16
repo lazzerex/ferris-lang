@@ -1,0 +1,12 @@
+//Conditionals logic
+let temperature = 75;
+
+if (temperature > 80) {
+    print("It's hot!");
+} else {
+    if (temperature > 60) {
+        print("Perfect weather!");
+    } else {
+        print("It's cold!");
+    }
+}

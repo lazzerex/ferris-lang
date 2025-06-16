@@ -1,0 +1,12 @@
+// Mathematical operations
+let x = 10;
+let y = 3;
+
+print(x + y);    // 13
+print(x - y);    // 7
+print(x * y);    // 30
+print(x / y);    // 3.333...
+
+let result = (x + y) * 2 - 1;
+print(result);   // 25
+

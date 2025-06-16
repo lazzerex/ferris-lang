@@ -1,0 +1,15 @@
+// Calculate Fibonacci numbers
+let a = 0;
+let b = 1;
+let count = 0;
+
+print(a);
+print(b);
+
+while (count < 8) {
+    let temp = a + b;
+    print(temp);
+    a = b;
+    b = temp;
+    count = count + 1;
+}

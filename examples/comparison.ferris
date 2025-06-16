@@ -1,0 +1,29 @@
+// Comparison operations
+let a = 10;
+let b = 20;
+
+print("Comparing " + a + " and " + b);
+
+if (a == b) {
+    print("The numbers are equal");
+} else {
+    print("The numbers are not equal");
+}
+
+if (a != b) {
+    print("The numbers are different");
+} else {
+    print("The numbers are the same");
+}
+
+if (a < b) {
+    print(a + " is less than " + b);
+} else {
+    print(a + " is not less than " + b);
+}
+
+if (a > b) {
+    print(a + " is greater than " + b);
+} else {
+    print(a + " is not greater than " + b);
+}

@@ -2,6 +2,9 @@
 
 A simple, elegant programming language written in Rust and named after Ferris, the beloved Rust mascot. Ferris demonstrates the complete implementation of a programming language from lexical analysis to execution.
 
+
+https://github.com/user-attachments/assets/cd44a33f-7447-49cf-a976-7fb4c2fe2a78
+
 ## Why Ferris?
 
 Ferris is named after the Rust programming language's mascot - a friendly crab that represents the safety, speed, and reliability that Rust brings to systems programming. Like its namesake, the Ferris language aims to be approachable yet powerful.

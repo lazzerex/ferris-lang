@@ -17,7 +17,7 @@ fn main() {
     let args: Vec<String> = env::args().collect();
     
     let program = if args.len() > 1 {
-        // Read program from file
+        // read program from file
         let filename = &args[1];
         match fs::read_to_string(filename) {
             Ok(content) => content,
